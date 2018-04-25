@@ -1,2 +1,5 @@
 Nama    : Finni Rizkia
 NPM     : 5520116109
+
+Nama	: Muhammad Raka Aditya Sidik
+NPM	: 5520116118
