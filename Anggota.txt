@@ -3,3 +3,6 @@ NPM     : 5520116109
 
 Nama	: Muhammad Raka Aditya Sidik
 NPM	: 5520116118
+
+Nama	: Dede Rustandi
+NPM	: 5520116134
