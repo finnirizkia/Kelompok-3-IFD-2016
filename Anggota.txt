@@ -6,3 +6,6 @@ NPM	: 5520116118
 
 Nama	: Dede Rustandi
 NPM	: 5520116134
+
+Nama	: Muhammad Farhan Saputra
+NPM	: 5520116127
